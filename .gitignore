@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+outputs/
+figures/
+audio/
+*.wav
+*.mp3
